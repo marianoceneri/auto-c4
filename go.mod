@@ -10,8 +10,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 )
 
-
-require (
-	github.com/kr/pretty v0.2.1 // indirect
-	github.com/pmezard/go-difflib v1.0.0 // indirect
-)
+require github.com/pmezard/go-difflib v1.0.0 // indirect
